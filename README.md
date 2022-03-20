@@ -7,9 +7,9 @@
 
 ## About
 
-Tuning Inspector is a resource for modders of The Sims 4. As we all know, The Sims 4 employs XML tuning which are interpreted to build Python objects by the game.
+Tuning Inspector is a resource for modders of The Sims 4. As we all know, The Sims 4 employs XML tuning which are interpreted to build Python objects by the game. In almost every case however, the structure of an XML tuning does not correspond to the Python objects and their attributes when they are created by the game. Tuning Inspector enables modders to peruse the Python object (and its attributes) associated with an XML tuning.
 
-In almost every case however, the structure of an XML tuning does not correspond to the Python objects and their attributes when they are created by the game. Tuning Inspector enables modders to peruse the Python object (and its attributes) associated with an XML tuning.
+This is extremely useful when implementing custom Python injectors to avoid overriding XML tunings (and thus incompatibility issues) and significantly reduces development time when attempting to inject into unknown Python objects.
 
 ## Table of Contents
 
