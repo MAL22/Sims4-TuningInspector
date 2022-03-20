@@ -1,7 +1,7 @@
 <h1 align="center">Sims 4 Tuning Inspector</h1>
 <p align="center">
 <a href="https://github.com/MAL22/Sims4-TuningInspector/commits/master">
-<img src="https://img.shields.io/github/last-commit/MAL22/Sims4TuningInspector.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub last commit">
+<img src="https://img.shields.io/github/last-commit/MAL22/Sims4-TuningInspector.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub last commit">
 </a>
 </p>
 
